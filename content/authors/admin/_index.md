@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘妮琦
+title: Academic
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -53,7 +53,7 @@ interests:
   - Computational Neuroscience
 
 education:
-  - area: MEng Computer Science and Technology
+  - area: MSc in Computer Science and Technology
     institution: Tsinghua University
     date_start: 2022-09-01
     date_end: 2025-06-30
@@ -65,7 +65,7 @@ education:
       - Data Visualization
       - Computer Graphics
       - Statistical Learning Theory and Applications
-  - area: BSc Computer Science and Technology
+  - area: BEng Computer Science and Technology
     institution: Tsinghua University
     date_start: 2018-09-01
     date_end: 2022-06-30
@@ -111,7 +111,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -142,7 +142,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 75
+    percent: 80
   - name: German
     percent: 25
 
@@ -178,6 +178,8 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Greetings👋 I'm Niqi Liu.
 
-Niqi Liu is a second-year Master's of Computer Science at the xxx Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third-year Master's student in Media Technology at Tsinghua University, advised by Professor Yong-Jin Liu. Previously, I earned my Bachelor's degree at the Department of Computer Science and Technology, Tsinghua University.
+
+My research interest lies in integrating data mining with human cognition to facilitate human well-being, with an emphasis on affective computing. In this domain, I have delved into time-series analysis, contrastive learning, learning with noise, and generative models.
