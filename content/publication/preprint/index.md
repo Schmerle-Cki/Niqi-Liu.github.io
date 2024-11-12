@@ -41,10 +41,14 @@ url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#   focal_point: ""
+#   preview_only: false
+video:
+    caption: 'Video Sourcs: [**Unsplahs**](https://youtu.be/GSa7j948rW8)'
+    focal_point: ""
+    preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
