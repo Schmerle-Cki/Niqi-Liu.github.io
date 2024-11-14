@@ -1,7 +1,7 @@
 ---
 title: "TNANet: A Temporal-Noise-Aware Neural Network for Suicidal Ideation Prediction with Noisy Physiological Data"
 authors: "Niqi Liu, Fang Liu, Wenqi Ji, Xinxin Du, Xu Liu, Guozhen Zhao, Wenting Mu, and Yong-Jin Liu"
-date: "2024-01-07T00:00:00Z"
+date: "2024-01-23T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,9 +26,9 @@ tags:
 
 featured: true
 
-links:
-- name: TNANet
-  url: http://example.org
+# links:
+# - name: TNANet
+#   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2401.12733
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
