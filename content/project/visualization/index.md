@@ -6,11 +6,8 @@ tags:
   - Visualization
 # {{< video src="">}}
 # <video src="https://youtu.be/GSa7j948rW8" controls="controls" width="800" height="600"></video>
-video:
-  caption: 'Video credit: [**Unsplash**](https://youtu.be/GSa7j948rW8)'
-  focal_point: ""
-  preview_only: false
 ---
+{{< video "https://youtu.be/GSa7j948rW8" >}}
 
 Analyzed 55o,00o+ tweets, conducted sentiment analysis, and visualized emotional distribution.
 
