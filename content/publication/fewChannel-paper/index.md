@@ -18,8 +18,8 @@ publishDate: '2023-11-24T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: 
+publication: "*IEEE Transactions on Affective Computing*, 15(3), 1315-1330"
+publication_short: "TAFFC"
 
 abstract: Electroencephalogram (EEG) signals have been widely studied in human emotion recognition. The majority of existing EEG emotion recognition algorithms utilize dozens or hundreds of electrodes covering the whole scalp region (denoted as full-channel EEG devices in this paper). Nowadays, more and more portable and miniature EEG devices with only a few electrodes (denoted as few-channel EEG devices in this paper) are emerging. However, emotion recognition from few-channel EEG data is challenging because the device can only capture EEG signals from a portion of the brain area. Moreover, existing full-channel algorithms cannot be directly adapted to few-channel EEG signals due to the significant inter-variation between full-channel and few-channel EEG devices. To address these challenges, we propose a novel few-channel EEG emotion recognition framework from the perspective of knowledge transfer. We leverage full-channel EEG signals to provide supplementary information, available online, for few-channel signals via a transfer learning-based model CD-EmotionNet , which consists of a base emotion model for efficient emotional feature extraction and a cross-device transfer learning strategy. This strategy helps to enhance emotion recognition performance on few-channel EEG data by utilizing knowledge learned from full-channel EEG data. To evaluate our cross-device EEG emotion transfer learning framework, we construct an emotion dataset containing paired 18-channel and 5-channel EEG signals from 25 subjects, as well as 5-channel EEG signals from 13 other subjects. Extensive experiments show that our framework outperforms state-of-the-art EEG emotion recognition methods by a large margin.
 
