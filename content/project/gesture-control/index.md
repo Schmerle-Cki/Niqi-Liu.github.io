@@ -5,7 +5,7 @@ date: 2021-01-01
 tags:
   - HCI
 ---
-={{< bilibili BV1esmfYmEqG >}}=
+{{< bilibili BV1esmfYmEqG >}}
 
 We explored the naturalness and efficiency of various HCI trigger methods, including gestures, gaze, distance, and touch, within a Unity-simulated home environment. Participants, wearing Oculus headsets, were tasked with turning off a TV in one room and turning on another in a different room that undertook the same content, as they virtually moved through the space.
 
