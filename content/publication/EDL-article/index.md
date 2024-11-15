@@ -1,5 +1,5 @@
 ---
-title: "Emotion distribution learning based on peripheral physiological signals"
+title: "Emotion Distribution Learning Based on Peripheral Physiological Signals"
 authors: "Yezhi Shu, Pei Yang, *Niqi Liu, Shu Zhang, Guozhen Zhao, and Yong-Jin Liu"
 author_notes:
 - "Yezhi Shu, Pei Yang, and Niqi Liu are with equal contribution"

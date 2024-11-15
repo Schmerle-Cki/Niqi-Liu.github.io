@@ -1,5 +1,5 @@
 ---
-title: "A multimodal dataset for mixed emotion recognition"
+title: "A Multimodal Dataset for Mixed Emotion Recognition"
 authors: "Pei Yang, Niqi Liu, Xinge Liu, Yezhi Shu, Wenqi Ji, Ziqi Ren, Jenny Sheng, Minjing Yu, Ran Yi, Dan Zhang, and Yong-Jin Liu"
 author_notes:
 - "Pei Yang, Niqi Liu, and Xinge Liu are with equal contribution"
