@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        At the core of my research is the quest to seamlessly integrate AI with both knowledge and compassion. 🤖
+        At the core of my research is the quest to seamlessly integrate AI with both **<font color="blue">knowledge</font>** and **<font color="blue">compassion</font>**. 🤖
         
-        My work centers on high-dimensional data representation and cross-subject transfer learning. I am dedicated to creating domain-invariant, biosignal-based health monitoring systems that are not only precise but also widely accessible.
+        My work centers on **high-dimensional data representation** and **cross-subject transfer learning**. I am dedicated to creating domain-invariant, biosignal-based health monitoring systems that are not only precise but also widely accessible.
         
         By merging advanced statistical methods with deep learning, my goal is to develop scalable tools that democratize mental health diagnostics, ensuring equity across various demographics and socioeconomic backgrounds. 😃
     design:
