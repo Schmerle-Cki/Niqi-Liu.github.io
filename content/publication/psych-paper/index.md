@@ -1,5 +1,5 @@
 ---
-title: "The influence of key facial features on recognition of emotion in cartoon faces"
+title: "The Influence of Key Facial Features on Recognition of Emotion in Cartoon Faces"
 authors: "Shu Zhang, Xinge Liu, Xuan Yang, Yezhi Shu, Niqi Liu, Dan Zhang, and Yong-Jin Liu"
 date: "2021-08-10T00:00:00Z"
 doi: ""
