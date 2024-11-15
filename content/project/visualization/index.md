@@ -8,7 +8,7 @@ tags:
 # <video src="https://youtu.be/GSa7j948rW8" controls="controls" width="800" height="600"></video>
 ---
 
-={{< bilibili BV15smfYmEEL >}}=
+{{< bilibili BV15smfYmEEL >}}
 
 Analyzed 55o,00o+ tweets, conducted sentiment analysis, and visualized emotional distribution.
 
