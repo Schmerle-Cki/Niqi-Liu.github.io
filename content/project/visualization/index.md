@@ -1,7 +1,7 @@
 ---
 title: Visualization of Public Opinions on ChatGPT
 date: 2023-04-25
-external_link: https://github.com/Schmerle-Cki/LearningData/blob/master/DataVisualization/Technical%20Approach.pdf
+# external_link: https://github.com/Schmerle-Cki/LearningData/blob/master/DataVisualization/Technical%20Approach.pdf
 tags:
   - Visualization
 ---
