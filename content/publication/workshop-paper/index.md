@@ -13,7 +13,8 @@ publishDate: "2024-01-06T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+# publication: "*Journal of Source Themes, 1*(1)"
+ publication: "*arxiv preprint arXiv:2401.03250*"
 publication_short: ""
 
 abstract: Interpersonal relationship quality is pivotal in social and occupational contexts. Existing analysis of interpersonal relationships mostly rely on subjective self-reports, whereas objective quantification remains challenging. In this paper, we propose a novel social relationship analysis framework using spatio-temporal patterns derived from dyadic EEG signals, which can be applied to quantitatively measure team cooperation in corporate team building, and evaluate interpersonal dynamics between therapists and patients in psychiatric therapy. First, we constructed a dyadic-EEG dataset from 72 pairs of participants with two relationships (stranger or friend) when watching emotional videos simultaneously. Then we proposed a deep neural network on dyadic-subject EEG signals, in which we combine the dynamic graph convolutional neural network for characterizing the interpersonal relationships among the EEG channels and 1-dimension convolution for extracting the information from the time sequence. To obtain the feature vectors from two EEG recordings that well represent the relationship of two subjects, we integrate deep canonical correlation analysis and triplet loss for training the network. Experimental results show that the social relationship type (stranger or friend) between two individuals can be effectively identified through their EEG data.
@@ -59,12 +60,16 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+### Methodology: Dyadic EEG Dataset and Deep Neural Network
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+**Construction of Dyadic EEG Dataset:** We constructed a dyadic-EEG dataset from 72 pairs of participants with two types of relationships (stranger or friend) while they simultaneously watched emotional videos. This dataset serves as a foundation for analyzing the social relationships between individuals.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+**Deep Neural Network for Dyadic EEG Signals:** A deep neural network was proposed to model the temporal and spatial information of EEG data. The network combines dynamic graph convolutional neural networks to characterize interpersonal relationships among EEG channels and 1-D convolution for extracting time sequence information. The framework integrates deep canonical correlation analysis and triplet loss for training the network, resulting in feature vectors that represent the relationship between two subjects.
+
+### Key Findings: EEG Data and Social Relationship Identification
+
+The experimental results demonstrate that the social relationship type (stranger or friend) between two individuals can be effectively identified through their EEG data. This finding has significant implications for understanding social dynamics and interpersonal connections in various social and occupational contexts.
+
+### Conclusion: Advancing EEG-Based Research
+
+The research shifts the focus from individual neural variations to interconnections in EEG patterns across individuals, providing a new perspective on EEG-based studies. The findings not only contribute to the understanding of interpersonal relationships but also offer a benchmark for future research in this novel area of study.

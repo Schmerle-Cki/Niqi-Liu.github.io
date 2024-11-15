@@ -13,7 +13,7 @@ date: "2024-01-23T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*arxiv preprint arXiv:2401.12733*"
 publication_short: ""
 
 abstract: The robust generalization of deep learning models in the presence of inherent noise remains a significant challenge, especially when labels are subjective and noise is indiscernible in natural settings. This problem is particularly pronounced in many practical applications. In this paper, we address a special and important scenario of monitoring suicidal ideation, where time-series data, such as photoplethysmography (PPG), is susceptible to such noise. Current methods predominantly focus on image and text data or address artificially introduced noise, neglecting the complexities of natural noise in time-series analysis. To tackle this, we introduce a novel neural network model tailored for analyzing noisy physiological time-series data, named TNANet, which merges advanced encoding techniques with confidence learning, enhancing prediction accuracy. Another contribution of our work is the collection of a specialized dataset of PPG signals derived from realworld environments for suicidal ideation prediction. Employing this dataset, our TNANet achieves the prediction accuracy of 63.33% in a binary classification task, outperforming state-of-the-art models. Furthermore, comprehensive evaluations were conducted on three other well-known public datasets with artificially introduced noise to rigorously test the TNANet’s capabilities. These tests consistently demonstrated TNANet’s superior performance by achieving an accuracy improvement of more than 10% compared to baseline methods.
@@ -23,6 +23,7 @@ summary: In this paper, we introduce TNANet, a neural network model designed to 
 
 tags:
 - Computational Neuroscience
+- Mental Health
 
 featured: true
 
