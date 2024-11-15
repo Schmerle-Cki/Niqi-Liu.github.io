@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Student
+# role: Master Student
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn/
+# organizations:
+#   - name: Tsinghua University
+#     url: https://www.tsinghua.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -180,6 +180,6 @@ languages:
 
 ## Greetings👋 I'm Niqi Liu.
 
-I am a third-year Master's student in Media Technology at Tsinghua University, advised by Professor [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). Previously, I earned my Bachelor's degree at the Department of Computer Science and Technology, Tsinghua University.
+I am a third-year Master's student in Media Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Professor [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). Previously, I earned my Bachelor's degree at the Department of Computer Science and Technology, Tsinghua University.
 
 My research interest lies in integrating data mining with human cognition to facilitate human well-being, with an emphasis on affective computing. In this domain, I have delved into time-series analysis, contrastive learning, learning with noise, and generative models.
