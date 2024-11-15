@@ -31,7 +31,7 @@ Analyzed 55o,00o+ tweets, conducted sentiment analysis, and visualized emotional
 
 #### Architecture Description
 
-- <font color="blue">**Front end**</font>: 	`d3.js` (90%), `echarts` (10%)
-- <font color="blue">**Backend**</font>: 	  `VSCode Liver Server`  
+- **<font color="blue">Front end</font>**: 	`d3.js` (90%), `echarts` (10%)
+- **<font color="blue">Backend</font>**: 	  `VSCode Liver Server`  
 
 <!--more-->
