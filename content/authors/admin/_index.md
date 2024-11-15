@@ -182,4 +182,4 @@ languages:
 
 I am a third-year Master's student in Media Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Professor [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). Previously, I earned my Bachelor's degree at the Department of Computer Science and Technology, Tsinghua University.
 
-My research interest lies in integrating data mining with human cognition to facilitate human well-being, with an emphasis on affective computing. In this domain, I have delved into time-series analysis, contrastive learning, learning with noise, and generative models.
+My research interest lies in integrating **data mining** with **cognition science** to facilitate human well-being, with an emphasis on **affective computing**. In this domain, I have delved into <u>time-series analysis, contrastive learning, learning with noise, and generative models</u>.
