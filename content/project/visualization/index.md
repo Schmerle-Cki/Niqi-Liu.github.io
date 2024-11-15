@@ -6,7 +6,7 @@ tags:
   - Visualization
 # {{< video src="">}}
 ---
-<video src="https://example.com/my_video.mp4" controls="controls" width="800" height="600"></video>
+<video src="https://youtu.be/GSa7j948rW8" controls="controls" width="800" height="600"></video>
 
 Analyzed 55o,00o+ tweets, conducted sentiment analysis, and visualized emotional distribution.
 
