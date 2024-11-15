@@ -54,7 +54,7 @@ interests:
 
 education:
   - area: MSc in Computer Science and Technology
-    institution: "<font color="grey">Tsinghua University</font>"
+    institution: Tsinghua University
     date_start: 2022-09-01
     date_end: 2025-06-30
     summary: |
@@ -66,7 +66,7 @@ education:
       - Computer Graphics
       - Statistical Learning Theory and Applications
   - area: BEng Computer Science and Technology
-    institution: "<font color="grey">Tsinghua University</font>"
+    institution: Tsinghua University
     date_start: 2018-09-01
     date_end: 2022-06-30
     summary: |
