@@ -5,8 +5,12 @@ date: 2023-04-25
 tags:
   - Visualization
 # {{< video src="">}}
+# <video src="https://youtu.be/GSa7j948rW8" controls="controls" width="800" height="600"></video>
+video:
+  caption: 'Video credit: [**Unsplash**](https://youtu.be/GSa7j948rW8)'
+  focal_point: ""
+  preview_only: false
 ---
-<video src="https://youtu.be/GSa7j948rW8" controls="controls" width="800" height="600"></video>
 
 Analyzed 55o,00o+ tweets, conducted sentiment analysis, and visualized emotional distribution.
 
@@ -24,7 +28,7 @@ Analyzed 55o,00o+ tweets, conducted sentiment analysis, and visualized emotional
   Used the **PCA** dimensionality reduction visualization method, the 6-dimensional emotional vector is <font color="blue">reduced to a 2-dimensional plane coordinate vector</font>, and the radar chart displays the six-pole distribution of emotions. Mapping is
   established between <font color="blue">"tweet popularity ←→ bubble size"</font> and <font color="blue">"emotional vector ←→ bubble color"</font>.
 - **Chart drawing**
-  Mainly used <font color="blue">**d3.js**</font> and <font color="blue">**echarts**</font> to draw various charts, including the `d3.layout.cloud` library for word cloud diagrams and the `d3-geo-projection` library for maps.
+  Mainly used **<font color="blue">d3.js</font>** and **<font color="blue">echarts</font>** to draw various charts, including the `d3.layout.cloud` library for word cloud diagrams and the `d3-geo-projection` library for maps.
 - **Interaction Design**
   Mainly by hovering or clicking the mouse to get more information.
 
