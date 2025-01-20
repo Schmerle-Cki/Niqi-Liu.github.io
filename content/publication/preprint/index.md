@@ -5,12 +5,12 @@ date: "2025-01-09T00:00:00Z"
 doi: "10.1109/TCSS.2024.3523928"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Computational Social Systems*"
