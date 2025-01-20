@@ -1,8 +1,8 @@
 ---
-title: "TNANet: A Temporal-Noise-Aware Neural Network for Suicidal Ideation Prediction with Noisy Physiological Data"
-authors: "Niqi Liu, Fang Liu, Wenqi Ji, Xinxin Du, Xu Liu, Guozhen Zhao, Wenting Mu, and Yong-Jin Liu"
-date: "2024-11-13T00:00:00Z"
-# doi: ""
+title: "Temporal-Noise-Aware Neural Networks for Suicidal Ideation Prediction Using Physiological Data"
+authors: "Niqi Liu, Fang Liu, Wenqi Ji, Xinxin Du, Xu Liu, Lan Wang, Guozhen Zhao, Wenting Mu, and Yong-Jin Liu"
+date: "2025-01-09T00:00:00Z"
+doi: "10.1109/TCSS.2024.3523928"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -13,13 +13,13 @@ date: "2024-11-13T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arxiv preprint arXiv:2401.12733*"
-publication_short: ""
+publication: "*IEEE Transactions on Computational Social Systems*"
+publication_short: "TCSS"
 
-abstract: The robust generalization of deep learning models in the presence of inherent noise remains a significant challenge, especially when labels are subjective and noise is indiscernible in natural settings. This problem is particularly pronounced in many practical applications. In this paper, we address a special and important scenario of monitoring suicidal ideation, where time-series data, such as photoplethysmography (PPG), is susceptible to such noise. Current methods predominantly focus on image and text data or address artificially introduced noise, neglecting the complexities of natural noise in time-series analysis. To tackle this, we introduce a novel neural network model tailored for analyzing noisy physiological time-series data, named TNANet, which merges advanced encoding techniques with confidence learning, enhancing prediction accuracy. Another contribution of our work is the collection of a specialized dataset of PPG signals derived from realworld environments for suicidal ideation prediction. Employing this dataset, our TNANet achieves the prediction accuracy of 63.33% in a binary classification task, outperforming state-of-the-art models. Furthermore, comprehensive evaluations were conducted on three other well-known public datasets with artificially introduced noise to rigorously test the TNANet’s capabilities. These tests consistently demonstrated TNANet’s superior performance by achieving an accuracy improvement of more than 10% compared to baseline methods.
+abstract: The robust generalization of deep learning models in the presence of inherent noise remains a significant challenge, especially when labels are ambiguous due to their subjective nature and noise is indiscernible in natural settings. In this article, we address a specific and important scenario of monitoring suicidal ideation (SI), where time-series data, such as galvanic skin response (GSR) and photoplethysmography (PPG), are susceptible to such noise. Current methods predominantly focus on image and text data or address artificially introduced noise, neglecting the complexities of natural noise in time-series analysis. To tackle this, we introduce a novel neural network model tailored for analyzing noisy physiological time-series data, named DBN_ConvNet, which integrates advanced encoding techniques with confidence learning training to enhance prediction performance. Another main contribution of our work is the collection of a specialized dataset of GSR and PPG signals derived from real-world environments for SI prediction. By employing this dataset, our DBN_ConvNet achieves a prediction accuracy of 76.67% and an F1 score of 0.74 in a binary classification task, outperforming state-of-the-art methods. Furthermore, comprehensive evaluations have been conducted on three other well-known public datasets with artificially introduced noise to test the DBN_ConvNet’s capabilities rigorously. These tests consistently demonstrated DBN_ConvNet’s superior performance by achieving an improvement of more than 10% in both accuracy and F1 score compared to the baseline methods.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we introduce TNANet, a neural network model designed to analyze noisy physiological time-series data, specifically for monitoring suicidal ideation. TNANet combines advanced encoding with confidence learning to improve prediction accuracy, addressing the challenge of natural noise in PPG data. Our model outperforms existing methods, achieving 63.33% accuracy on a binary classification task using a real-world PPG dataset. Additionally, TNANet demonstrated over 10% accuracy improvement on three public datasets with artificially introduced noise.
+summary: In this paper, we introduce DBN_ConvNet, a neural network model designed to analyze noisy physiological time-series data, specifically for monitoring suicidal ideation. DBN_ConvNet combines advanced encoding with confidence learning to improve prediction accuracy, addressing the challenge of natural noise in GSR and PPG data. Our model outperforms existing methods, achieving 76.67% accuracy on a binary classification task using a real-world peripheral physiological dataset. Additionally, DBN_ConvNet demonstrated over 10% accuracy improvement on three public datasets with artificially introduced noise.
 
 tags:
 - Computational Neuroscience
@@ -30,7 +30,7 @@ featured: true
 # links:
 # - name: TNANet
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2401.12733
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10836135
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: https://github.com/Schmerle-Cki/Biometric-Suicidal-Ideation-Database
 # url_poster: '#'
